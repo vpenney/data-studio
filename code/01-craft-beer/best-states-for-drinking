@@ -1,0 +1,13 @@
+- Craft breweries per capita and production per brewery (total production divided by number of breweries--average, if need be)
+- Liquor excise tax amount
+- Can you buy beer in the grocery store? 
+- Can you buy beer on weekends? (liquor store hours)
+- Alcohol consumption per capita, by state (drinking buddies)
+
+* Start with beer
+* Penalties for weird drinking laws (alcohol plus food in Utah, etc)
+* Restrictions on alcohol percentage or size? (Alabama had no 6%+ beers for a while)
+* Distance from breweries vs population density (are they all really spread out?)
+
+
+Plot (scatter) breweries per capita and change sized based on number of breweries in the state
