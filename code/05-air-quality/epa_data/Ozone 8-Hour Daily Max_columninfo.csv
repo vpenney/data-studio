@@ -1,0 +1,8 @@
+"TABLE_NAME","COLUMN_ID","COLUMN_NAME","UNIT","DATA_TYPE","DATA_LENGTH","PRIMARY_KEY","DESCRIPTION"
+"OZONE_8HR_DMAX","1.0","SITE_ID","","CHAR","6","","Site identification code"
+"OZONE_8HR_DMAX","2.0","YEAR","","CHAR","4","","Year of measurement"
+"OZONE_8HR_DMAX","3.0","DDATE","","DATE","19","","Date for which OZONE_8HR_DAILY_MAX was computed"
+"OZONE_8HR_DMAX","4.0","OZONE_8HR_DAILY_MAX","in ppb","NUMBER","8,4","","Daily maximum value of the 8-hour rolling average, calculated according to 40CFR Part 58; in ppb."
+"OZONE_8HR_DMAX","5.0","RANK","","NUMBER","8,4","","Annual rank of the 8-hour daily max"
+"OZONE_8HR_DMAX","6.0","QA_CODE","","CHAR","2","","Quality assurance level of the record. (see QAPP for definition of quality assurance levels)."
+"OZONE_8HR_DMAX","7.0","UPDATE_DATE","","DATE","19","","Last date record updated"
